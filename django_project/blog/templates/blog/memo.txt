@@ -1,0 +1,4 @@
+django superuser:
+    name: Koji
+    pass: test0207
+    mail: kojiinoue2018@gmail.com
